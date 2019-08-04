@@ -30,6 +30,7 @@ ul {
   list-style: none;
   margin-left: 150px;
   font-size: 1.4rem;
+  display: inline-block;
 }
 
 li::after {

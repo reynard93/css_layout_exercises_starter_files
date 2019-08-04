@@ -10,3 +10,22 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.img1 {
+  float: left;
+  margin-right: 15px;
+}
+
+.medium {
+  width: 300px;
+}
+
+.img2 {
+  float: right;
+  margin-left: 15px;
+}
+
+.img1, .img2 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
